@@ -19,7 +19,7 @@ http://python.chamaralabs.com/login/<username>&<password>
 ```bash
 http://python.chamaralabs.com/clientuser/reg/<name>&<phonenumber>&<latitude>&<longidute>&<address>&<password>
 ```
-#### Pharmacy (Client)
+#### Registation (Pharmacy)
 ```bash
 http://python.chamaralabs.com/pharmuser/reg/<name>&<owner>&<phonenumber>&<latitude>&<longidute>&<address>&<password>
 ```
